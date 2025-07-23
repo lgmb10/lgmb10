@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Louis ! 👋
+
+<h3 align="center">I am a developer, passionate about web developpement, tech and automobile from France</h3>
+
+- 🔭 I’m currently working on VueJS and Nuxt for <a href="https://www.syneidolab.com/" target="blank">SYNEIDO LAB</a>
+- 🌱 I’m currently learning <a href="https://nestjs.com/" target="blank">**NestJS**</a>
+- 💬 Ask me about **Javascript, TypeScript, VueJS, Nuxt**
+- 📄 My experiences :
+    - [My linkedin](www.linkedin.com/in/louis-gambier-b22b91172)
+    - [My portfolio](https://lgmb10.github.io/portfolio/)
+ - 📫 How to reach me :
+    - **[My linkedin](www.linkedin.com/in/louis-gambier-b22b91172)**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lgmb10&label=Profile%20views&style=flat" alt="lgmb10" /> </p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,pinia,nuxt,vite,tailwind,sass,netlify,mysql,linux,bash,git,github,heroku,npm,regex)](https://skillicons.dev)
+<br/>
+
+<div align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sterbenfr&show_icons=true&locale=en&hide=contribs&rank_icon=github&theme=cobalt&hide_border=true" alt="max-vast-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sterbenfr&layout=compact&theme=cobalt&hide_border=true" alt="max-vast-stats" /></p>
+</div>
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=lgmb10&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 <!--
 **lgmb10/lgmb10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
