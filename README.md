@@ -17,8 +17,8 @@
 <br/>
 
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sterbenfr&show_icons=true&locale=en&hide=contribs&rank_icon=github&theme=cobalt&hide_border=true" alt="max-vast-stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sterbenfr&layout=compact&theme=cobalt&hide_border=true" alt="max-vast-stats" /></p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=lgmb10&show_icons=true&locale=en&hide=contribs&rank_icon=github&theme=cobalt&hide_border=true" alt="max-vast-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgmb10&layout=compact&theme=cobalt&hide_border=true" alt="max-vast-stats" /></p>
 </div>
 
 ## 🏆GitHub Trophies
