@@ -16,10 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,vue,pinia,nuxt,vite,tailwind,sass,netlify,mysql,linux,bash,git,github,heroku,npm,regex)](https://skillicons.dev)
 <br/>
 
-<div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=lgmb10&show_icons=true&locale=en&hide=contribs&rank_icon=github&theme=cobalt&hide_border=true" alt="max-vast-stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgmb10&layout=compact&theme=cobalt&hide_border=true" alt="max-vast-stats" /></p>
-</div>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=lgmb10&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
