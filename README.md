@@ -2,7 +2,7 @@
 
 <h3>I am a developer, passionate about web developpement, tech and automobile from France</h3>
 
-- 🔭 I’m currently working on VueJS and Nuxt for <a href="https://www.syneidolab.com/" target="blank">JetDev</a>
+- 🔭 I’m currently working on VueJS and Nuxt for <a href="https://www.jetdev.fr" target="blank">JetDev</a>
 - 🌱 I’m currently learning <a href="https://nestjs.com/" target="blank">**NestJS**</a>
 - 💬 Ask me about **Javascript, TypeScript, VueJS, Nuxt**
 - 📄 My experiences :
